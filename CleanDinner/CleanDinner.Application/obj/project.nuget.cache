@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jop6/D9RLkc=",
+  "success": true,
+  "projectFilePath": "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Application\\CleanDinner.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sudhakar.tumma\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uvr+2oJtsKc=",
+  "success": true,
+  "projectFilePath": "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Api\\CleanDinner.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sudhakar.tumma\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\sudhakar.tumma\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512",
+    "C:\\Users\\sudhakar.tumma\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
