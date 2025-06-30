@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Domain\\CleanDinner.Domain.csproj": {}
+    "C:\\git_Proj\\DDD\\DDD\\CleanDinner\\CleanDinner.Domain\\CleanDinner.Domain.csproj": {}
   },
   "projects": {
-    "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Domain\\CleanDinner.Domain.csproj": {
+    "C:\\git_Proj\\DDD\\DDD\\CleanDinner\\CleanDinner.Domain\\CleanDinner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Domain\\CleanDinner.Domain.csproj",
+        "projectUniqueName": "C:\\git_Proj\\DDD\\DDD\\CleanDinner\\CleanDinner.Domain\\CleanDinner.Domain.csproj",
         "projectName": "CleanDinner.Domain",
-        "projectPath": "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Domain\\CleanDinner.Domain.csproj",
+        "projectPath": "C:\\git_Proj\\DDD\\DDD\\CleanDinner\\CleanDinner.Domain\\CleanDinner.Domain.csproj",
         "packagesPath": "C:\\Users\\sudhakar.tumma\\.nuget\\packages\\",
-        "outputPath": "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Domain\\obj\\",
+        "outputPath": "C:\\git_Proj\\DDD\\DDD\\CleanDinner\\CleanDinner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Contracts\\CleanDinner.Contracts.csproj",
+      "projectUniqueName": "C:\\git_Proj\\DDD\\DDD\\CleanDinner\\CleanDinner.Contracts\\CleanDinner.Contracts.csproj",
       "projectName": "CleanDinner.Contracts",
-      "projectPath": "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Contracts\\CleanDinner.Contracts.csproj",
+      "projectPath": "C:\\git_Proj\\DDD\\DDD\\CleanDinner\\CleanDinner.Contracts\\CleanDinner.Contracts.csproj",
       "packagesPath": "C:\\Users\\sudhakar.tumma\\.nuget\\packages\\",
-      "outputPath": "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Contracts\\obj\\",
+      "outputPath": "C:\\git_Proj\\DDD\\DDD\\CleanDinner\\CleanDinner.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

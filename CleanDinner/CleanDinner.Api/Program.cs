@@ -1,5 +1,6 @@
 var builder = WebApplication.CreateBuilder(args);
 {
+    // Moved Dependecies to their respective projects
     builder.Services.AddApplication();
     builder.Services.AddInfraStructure();
     builder.Services.AddControllers();

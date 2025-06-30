@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanDinner.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+022c8cc92d113a70acf384a9be96ce5afb08e62a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e81f68c3df7a856439675f805696900b8bfdd4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanDinner.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanDinner.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
