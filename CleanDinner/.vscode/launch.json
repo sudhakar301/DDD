@@ -1,0 +1,21 @@
+{
+    "configurations": [
+      {
+        "type": "coreclr",
+        "request": "launch",
+        "name": "Launch CleanDinner.Api",
+        "program": "${workspaceFolder}/CleanDinner.Api/bin/Debug/net9.0/CleanDinner.Api.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}/CleanDinner.Api",
+        "stopAtEntry": false,
+        "serverReadyAction": {
+          "action": "openExternally",
+          "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+        },
+        "env": {
+          "ASPNETCORE_ENVIRONMENT": "Development"
+        },
+        "preLaunchTask": "build CleanDinner.Api"
+      }
+    ]
+  }

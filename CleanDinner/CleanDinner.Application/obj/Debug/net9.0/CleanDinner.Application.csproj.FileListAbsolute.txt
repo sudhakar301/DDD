@@ -1,0 +1,15 @@
+C:\git_Proj\DDD\CleanDinner\CleanDinner.Application\bin\Debug\net9.0\CleanDinner.Application.deps.json
+C:\git_Proj\DDD\CleanDinner\CleanDinner.Application\bin\Debug\net9.0\CleanDinner.Application.dll
+C:\git_Proj\DDD\CleanDinner\CleanDinner.Application\bin\Debug\net9.0\CleanDinner.Application.pdb
+C:\git_Proj\DDD\CleanDinner\CleanDinner.Application\bin\Debug\net9.0\CleanDinner.Domain.dll
+C:\git_Proj\DDD\CleanDinner\CleanDinner.Application\bin\Debug\net9.0\CleanDinner.Domain.pdb
+C:\git_Proj\DDD\CleanDinner\CleanDinner.Application\obj\Debug\net9.0\CleanDinner.Application.csproj.AssemblyReference.cache
+C:\git_Proj\DDD\CleanDinner\CleanDinner.Application\obj\Debug\net9.0\CleanDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\git_Proj\DDD\CleanDinner\CleanDinner.Application\obj\Debug\net9.0\CleanDinner.Application.AssemblyInfoInputs.cache
+C:\git_Proj\DDD\CleanDinner\CleanDinner.Application\obj\Debug\net9.0\CleanDinner.Application.AssemblyInfo.cs
+C:\git_Proj\DDD\CleanDinner\CleanDinner.Application\obj\Debug\net9.0\CleanDinner.Application.csproj.CoreCompileInputs.cache
+C:\git_Proj\DDD\CleanDinner\CleanDinner.Application\obj\Debug\net9.0\CleanDin.E49EC4B9.Up2Date
+C:\git_Proj\DDD\CleanDinner\CleanDinner.Application\obj\Debug\net9.0\CleanDinner.Application.dll
+C:\git_Proj\DDD\CleanDinner\CleanDinner.Application\obj\Debug\net9.0\refint\CleanDinner.Application.dll
+C:\git_Proj\DDD\CleanDinner\CleanDinner.Application\obj\Debug\net9.0\CleanDinner.Application.pdb
+C:\git_Proj\DDD\CleanDinner\CleanDinner.Application\obj\Debug\net9.0\ref\CleanDinner.Application.dll

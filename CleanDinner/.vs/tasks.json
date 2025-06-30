@@ -1,0 +1,14 @@
+{
+    "tasks": [
+      {
+        "label": "build CleanDinner.Api",
+        "command": "dotnet",
+        "type": "process",
+        "args": [
+          "build",
+          "${workspaceFolder}/CleanDinner.Api/CleanDinner.Api.csproj"
+        ],
+        "problemMatcher": "$msCompile"
+      }
+    ]
+  }
