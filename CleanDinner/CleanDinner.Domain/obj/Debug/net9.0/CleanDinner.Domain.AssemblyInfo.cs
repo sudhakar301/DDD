@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanDinner.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+022c8cc92d113a70acf384a9be96ce5afb08e62a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce81170ec83095d1ca03159518925e9b8046fc85")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanDinner.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanDinner.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
