@@ -1,29 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\git_Proj\\DDD\\CleanDinner\\",
+  "WorkspaceRootPath": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2BAD359-CFB0-4681-9367-ED9D07EE2F78}|CleanDinner.Api\\CleanDinner.Api.csproj|c:\\git_proj\\ddd\\cleandinner\\cleandinner.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2BAD359-CFB0-4681-9367-ED9D07EE2F78}|CleanDinner.Api\\CleanDinner.Api.csproj|solutionrelative:cleandinner.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2BAD359-CFB0-4681-9367-ED9D07EE2F78}|CleanDinner.Api\\CleanDinner.Api.csproj|c:\\git_proj\\architect\\ddd\\cleandinner\\cleandinner.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2BAD359-CFB0-4681-9367-ED9D07EE2F78}|CleanDinner.Api\\CleanDinner.Api.csproj|solutionrelative:cleandinner.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F78CA3F-FE12-4747-A6F3-90FF7A8D1C8C}|CleanDinner.Application\\CleanDinner.Application.csproj|c:\\git_proj\\ddd\\cleandinner\\cleandinner.application\\services\\authentication\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2BAD359-CFB0-4681-9367-ED9D07EE2F78}|CleanDinner.Api\\CleanDinner.Api.csproj|c:\\git_proj\\architect\\ddd\\cleandinner\\cleandinner.api\\security\\operationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BAD359-CFB0-4681-9367-ED9D07EE2F78}|CleanDinner.Api\\CleanDinner.Api.csproj|solutionrelative:cleandinner.api\\security\\operationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BAD359-CFB0-4681-9367-ED9D07EE2F78}|CleanDinner.Api\\CleanDinner.Api.csproj|c:\\git_proj\\architect\\ddd\\cleandinner\\cleandinner.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BAD359-CFB0-4681-9367-ED9D07EE2F78}|CleanDinner.Api\\CleanDinner.Api.csproj|solutionrelative:cleandinner.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BAD359-CFB0-4681-9367-ED9D07EE2F78}|CleanDinner.Api\\CleanDinner.Api.csproj|c:\\git_proj\\architect\\ddd\\cleandinner\\cleandinner.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2BAD359-CFB0-4681-9367-ED9D07EE2F78}|CleanDinner.Api\\CleanDinner.Api.csproj|solutionrelative:cleandinner.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BAD359-CFB0-4681-9367-ED9D07EE2F78}|CleanDinner.Api\\CleanDinner.Api.csproj|c:\\git_proj\\architect\\ddd\\cleandinner\\cleandinner.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2BAD359-CFB0-4681-9367-ED9D07EE2F78}|CleanDinner.Api\\CleanDinner.Api.csproj|solutionrelative:cleandinner.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABD87B4-2A40-4DEC-A4FC-A9B4CE87B019}|CleanDinner.Infrastructure\\CleanDinner.Infrastructure.csproj|c:\\git_proj\\architect\\ddd\\cleandinner\\cleandinner.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABD87B4-2A40-4DEC-A4FC-A9B4CE87B019}|CleanDinner.Infrastructure\\CleanDinner.Infrastructure.csproj|solutionrelative:cleandinner.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F78CA3F-FE12-4747-A6F3-90FF7A8D1C8C}|CleanDinner.Application\\CleanDinner.Application.csproj|c:\\git_proj\\architect\\ddd\\cleandinner\\cleandinner.application\\services\\authentication\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F78CA3F-FE12-4747-A6F3-90FF7A8D1C8C}|CleanDinner.Application\\CleanDinner.Application.csproj|solutionrelative:cleandinner.application\\services\\authentication\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97E28CE8-EAF2-4B7A-8AB8-A1DFEACA99E8}|CleanDinner.Contracts\\CleanDinner.Contracts.csproj|c:\\git_proj\\ddd\\cleandinner\\cleandinner.contracts\\authentication\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97E28CE8-EAF2-4B7A-8AB8-A1DFEACA99E8}|CleanDinner.Contracts\\CleanDinner.Contracts.csproj|solutionrelative:cleandinner.contracts\\authentication\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ABD87B4-2A40-4DEC-A4FC-A9B4CE87B019}|CleanDinner.Infrastructure\\CleanDinner.Infrastructure.csproj|c:\\git_proj\\architect\\ddd\\cleandinner\\cleandinner.infrastructure\\authentication\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABD87B4-2A40-4DEC-A4FC-A9B4CE87B019}|CleanDinner.Infrastructure\\CleanDinner.Infrastructure.csproj|solutionrelative:cleandinner.infrastructure\\authentication\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F78CA3F-FE12-4747-A6F3-90FF7A8D1C8C}|CleanDinner.Application\\CleanDinner.Application.csproj|c:\\git_proj\\ddd\\cleandinner\\cleandinner.application\\services\\authentication\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F78CA3F-FE12-4747-A6F3-90FF7A8D1C8C}|CleanDinner.Application\\CleanDinner.Application.csproj|solutionrelative:cleandinner.application\\services\\authentication\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97E28CE8-EAF2-4B7A-8AB8-A1DFEACA99E8}|CleanDinner.Contracts\\CleanDinner.Contracts.csproj|c:\\git_proj\\ddd\\cleandinner\\cleandinner.contracts\\authentication\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97E28CE8-EAF2-4B7A-8AB8-A1DFEACA99E8}|CleanDinner.Contracts\\CleanDinner.Contracts.csproj|solutionrelative:cleandinner.contracts\\authentication\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B2BAD359-CFB0-4681-9367-ED9D07EE2F78}|CleanDinner.Api\\CleanDinner.Api.csproj|c:\\git_proj\\architect\\ddd\\cleandinner\\cleandinner.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BAD359-CFB0-4681-9367-ED9D07EE2F78}|CleanDinner.Api\\CleanDinner.Api.csproj|solutionrelative:cleandinner.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,81 +93,124 @@
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthenticationResponse.cs",
-              "DocumentMoniker": "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Contracts\\Authentication\\AuthenticationResponse.cs",
-              "RelativeDocumentMoniker": "CleanDinner.Contracts\\Authentication\\AuthenticationResponse.cs",
-              "ToolTip": "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Contracts\\Authentication\\AuthenticationResponse.cs",
-              "RelativeToolTip": "CleanDinner.Contracts\\Authentication\\AuthenticationResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T08:37:09.514Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegisterRequest.cs",
-              "DocumentMoniker": "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Contracts\\Authentication\\RegisterRequest.cs",
-              "RelativeDocumentMoniker": "CleanDinner.Contracts\\Authentication\\RegisterRequest.cs",
-              "ToolTip": "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Contracts\\Authentication\\RegisterRequest.cs",
-              "RelativeToolTip": "CleanDinner.Contracts\\Authentication\\RegisterRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "OperationFilter.cs",
+              "DocumentMoniker": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\CleanDinner.Api\\Security\\OperationFilter.cs",
+              "RelativeDocumentMoniker": "CleanDinner.Api\\Security\\OperationFilter.cs",
+              "ToolTip": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\CleanDinner.Api\\Security\\OperationFilter.cs",
+              "RelativeToolTip": "CleanDinner.Api\\Security\\OperationFilter.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T08:35:56.779Z",
+              "WhenOpened": "2025-07-01T12:34:32.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Api\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "CleanDinner.Api\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Api\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "CleanDinner.Api\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T08:34:48.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Application\\Services\\Authentication\\AuthenticationService.cs",
-              "RelativeDocumentMoniker": "CleanDinner.Application\\Services\\Authentication\\AuthenticationService.cs",
-              "ToolTip": "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Application\\Services\\Authentication\\AuthenticationService.cs",
-              "RelativeToolTip": "CleanDinner.Application\\Services\\Authentication\\AuthenticationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T08:34:36.508Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\CleanDinner.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CleanDinner.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\CleanDinner.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CleanDinner.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T12:25:50.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AuthenticationResult.cs",
-              "DocumentMoniker": "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Application\\Services\\Authentication\\AuthenticationResult.cs",
-              "RelativeDocumentMoniker": "CleanDinner.Application\\Services\\Authentication\\AuthenticationResult.cs",
-              "ToolTip": "C:\\git_Proj\\DDD\\CleanDinner\\CleanDinner.Application\\Services\\Authentication\\AuthenticationResult.cs",
-              "RelativeToolTip": "CleanDinner.Application\\Services\\Authentication\\AuthenticationResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T08:34:33.267Z",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\CleanDinner.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CleanDinner.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\CleanDinner.Api\\appsettings.Development.json",
+              "RelativeToolTip": "CleanDinner.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T12:25:38.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\CleanDinner.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanDinner.Api\\appsettings.json",
+              "ToolTip": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\CleanDinner.Api\\appsettings.json",
+              "RelativeToolTip": "CleanDinner.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T12:25:37.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAOITAAAAAAAAAAAUwOUTAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-06-30T07:28:26.275Z",
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\CleanDinner.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CleanDinner.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\CleanDinner.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "CleanDinner.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:51:39.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\CleanDinner.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CleanDinner.Api\\Program.cs",
+              "ToolTip": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\CleanDinner.Api\\Program.cs",
+              "RelativeToolTip": "CleanDinner.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:50:56.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\CleanDinner.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "CleanDinner.Api\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\CleanDinner.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "CleanDinner.Api\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:31:59.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\CleanDinner.Infrastructure\\Authentication\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "CleanDinner.Infrastructure\\Authentication\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\CleanDinner.Infrastructure\\Authentication\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "CleanDinner.Infrastructure\\Authentication\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:30:43.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\CleanDinner.Application\\Services\\Authentication\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "CleanDinner.Application\\Services\\Authentication\\AuthenticationService.cs",
+              "ToolTip": "C:\\git_Proj\\Architect\\DDD\\CleanDinner\\CleanDinner.Application\\Services\\Authentication\\AuthenticationService.cs",
+              "RelativeToolTip": "CleanDinner.Application\\Services\\Authentication\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:30:36.367Z",
               "EditorCaption": ""
             }
           ]
